@@ -120,7 +120,8 @@ body {
 	background-image: url("vegetals.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	
+	animation: fadeIn linear 1s;
+  	-webkit-animation: fadeIn linear 1s;
 }
 
 #box2:hover {

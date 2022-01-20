@@ -67,6 +67,7 @@ body {
 iframe {
 	margin-top: 30px;
 	margin-bottom: 30px;
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
